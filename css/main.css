@@ -1,0 +1,20 @@
+ul,li{
+    list-style-type: none;
+}
+.header,.footer{
+    background-color:rgb(4, 97, 97) ;
+    color: white;
+}
+.main{
+    height: calc(100vh - 200px);
+}
+.section {
+     background-color: rgb(5, 163, 163);
+}
+.sidebar{
+     background-color: rgb(3, 117, 117);
+}
+.header, .footer {
+    height: 100px;
+}
+
