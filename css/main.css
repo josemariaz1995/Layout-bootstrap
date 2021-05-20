@@ -1,11 +1,13 @@
-ul,li{
-    list-style-type: none;
+.categoria +.catergoria{
+    margin-top: 20px;
 }
 .header,.footer{
     background-color:rgb(4, 97, 97) ;
     color: white;
 }
-
+.main{
+    min-height: calc(100vh - 200px);
+}
 .section {
      background-color: rgb(5, 163, 163);
 }
