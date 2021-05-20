@@ -5,9 +5,7 @@ ul,li{
     background-color:rgb(4, 97, 97) ;
     color: white;
 }
-.main{
-    height: calc(100vh - 200px);
-}
+
 .section {
      background-color: rgb(5, 163, 163);
 }
